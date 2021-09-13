@@ -26,7 +26,7 @@
 ✔️ 🤠 I’m already know html , javascript , bootstrap , css & xml . <br>
 ✔️ 📝 I’m currently learning php, python, mysql & ethical hacking courses .<br>
 ✔️ 📧 E-Mail at :- christeenjose11@gmail.com <br>
-✔️ ☎ How to reach me :- "https://christeen-jose.github.io/"<br>
+✔️ ☎ How to reach me :- https://christeen-jose.github.io/<br>
 
 
 ### Languages and Tools:
