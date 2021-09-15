@@ -5,7 +5,7 @@
 <h4 align="center">Always wants to develop in Python 🐍 <br> I Like to work independently</h4>
 
 <p align='center'> 
-<a href="https://codepen.io/techiesneh"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://codepen.io/"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ChristeenJose11"><img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://christeen-jose.github.io/"><img height="25" src="https://img.shields.io/badge/Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/christeen.jose/"><img height="25" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
@@ -64,4 +64,4 @@
 
 ### Stats ⚡️
 
-![TechieSneh's github stats](https://github-stats-alpha.vercel.app/api/?username=christeen-jose)
+![Christeen Jose's github stats](https://github-stats-alpha.vercel.app/api/?username=christeen-jose)
