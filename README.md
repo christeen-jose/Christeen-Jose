@@ -21,7 +21,7 @@
 
 ### About Me: <br>
 
-✔️ 👋 Hi, I’m @Christeen-Jose .<br>
+✔️👋 Hi, I’m @Christeen-Jose .<br>
 ✔️ 👀 I’m interested in Data science ,ML and AI .<br>
 ✔️ 🤠 I’m already know html , javascript , bootstrap , css & xml . <br>
 ✔️ 📝 I’m currently learning php, python, mysql & ethical hacking courses .<br>
