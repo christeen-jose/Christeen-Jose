@@ -1,6 +1,6 @@
 <!-- Copyrights Techie Sneh  -->
 
-<h1 align="center">&nbsp;<a href="http://techiesneh.ueuo.com"><img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="48px"></a> I'm Christeen Jose </h1>
+<h1 align="center">&nbsp;<a href="http://techiesneh.ueuo.com"><!-- <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="48px"> --></a> I'm Christeen Jose </h1>
 
 <h4 align="center">Always wants to develop in Python 🐍 <br> I Like to work independently</h4>
 
