@@ -26,7 +26,7 @@
 ✔️ 🤠 I’m already know HTML , Javascript & CSS  . <br>
 ✔️ 📝 I’m currently learning Java, Python and MySQL .<br>
 ✔️ 📧 E-Mail at :- christeenjose11@gmail.com <br>
-✔️ ☎ How to reach me :- <a href="https://christeen-jose.github.io">christeen-jose.github.io</a>/<br>
+✔️ ☎ How to reach me :- <a href="https://christeen-jose.github.io/"> christeen-jose.github.io </a><br>
 
 
 ### Languages and Tools:
