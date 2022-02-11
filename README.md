@@ -2,7 +2,7 @@
 
 <h1 align="center">&nbsp;<a href="http://techiesneh.ueuo.com"><!-- <img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/tenor.gif" width="48px"> --></a> I'm Christeen Jose </h1>
 
-<h4 align="center">Always wants to develop in Python 🐍 <br> I Like to work independently</h4>
+<h4 align="center">Always wants to develop in Python and Java <br> I Like to work independently</h4>
 
 <p align='center'> 
 <a href="https://codepen.io/"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
@@ -22,9 +22,9 @@
 ### About Me: <br>
 
 ✔️👋 Hi, I’m @Christeen-Jose .<br>
-✔️ 👀 I’m interested in Data science ,ML and AI .<br>
-✔️ 🤠 I’m already know html , javascript , bootstrap , css & xml . <br>
-✔️ 📝 I’m currently learning php, python, mysql & ethical hacking courses .<br>
+✔️ 👀 I’m interested in DevOps and ML  .<br>
+✔️ 🤠 I’m already know HTML , Javascript & CSS  . <br>
+✔️ 📝 I’m currently learning Java, Python and MySQL .<br>
 ✔️ 📧 E-Mail at :- christeenjose11@gmail.com <br>
 ✔️ ☎ How to reach me :- https://christeen-jose.github.io/<br>
 
@@ -36,11 +36,7 @@
 
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 
-<a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="28px" src="https://i.dlpng.com/static/png/5419450-php-image-png-98-images-in-collection-page-2-php-png-270_200_preview.png" /></a>
-
 <a href="https://www.w3schools.com/python/" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-
-<a href="https://www.w3schools.com/bootstrap/" target="_blank"> <img align="left" alt="BootStrap" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png"/> </a>
 
 <a href="https://www.w3schools.com/js/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/> </a>
 
