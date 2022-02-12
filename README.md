@@ -21,12 +21,12 @@
 
 ### About Me: <br>
 
-✔️👋 Hi, I’m Christeen-Jose .<br>
-✔️ 👀 I’m interested in DevOps and ML  .<br>
-✔️ 🤠 I’m already know HTML , Javascript & CSS  . <br>
-✔️ 📝 I’m currently learning Java, Python and MySQL .<br>
-✔️ 📧 E-Mail at :- christeenjose11@gmail.com <br>
-✔️ ☎ How to reach me :- <a href="https://christeen-jose.github.io/"> christeen-jose.github.io </a><br>
+✔ Hi, I’m Christeen-Jose .<br>
+✔️ I’m interested in DevOps and ML  .<br>
+✔️ I’m already know HTML , Javascript & CSS  . <br>
+✔️ I’m currently learning Java, Python and MySQL .<br>
+✔️ E-Mail at :- christeenjose11@gmail.com <br>
+✔️  How to reach me :- <a href="https://christeen-jose.github.io/"> christeen-jose.github.io </a><br>
 
 
 ### Languages and Tools:
