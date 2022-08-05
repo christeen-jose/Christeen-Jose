@@ -13,7 +13,7 @@
 </p>
 
 
-<p align="center"> <a href="https://github.com/Christeen-Jose"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=christeen-jose&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="christeen-jose" /></a> </p><br>
+
 
 <p align="center"><a href="https://christeen-jose.github.io/"><img src="christeen.gif" alt="Hello" /></a></p><br>
 
@@ -21,7 +21,7 @@
 
 ### About Me: <br>
 
-✔ Hi, I’m Christeen-Jose .<br>
+✔️ Hi, I’m Christeen-Jose .<br>
 ✔️ I’m interested in DevOps and ML  .<br>
 ✔️ I’m already know HTML , Javascript & CSS  . <br>
 ✔️ I’m currently learning Java, Python and MySQL .<br>
